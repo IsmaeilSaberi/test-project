@@ -1,11 +1,7 @@
-import Greet from "./components/Greet";
+// import Greet from "./components/Greet";
 
 const App = () => {
-  return (
-    <div>
-      <Greet />
-    </div>
-  );
+  return <div>{/* <Greet /> */}</div>;
 };
 
 export default App;
