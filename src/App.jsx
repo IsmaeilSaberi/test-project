@@ -1,15 +1,15 @@
 // import Greet from "./components/Greet";
 
-import Footer from "./components/Footer";
-import Header from "./components/Header";
-import MainContent from "./components/MainContent";
+// import Footer from "./components/Footer";
+// import Header from "./components/Header";
+// import MainContent from "./components/MainContent";
 
 const App = () => {
   return (
     <div>
-      <Header />
+      {/* <Header />
       <MainContent />
-      <Footer />
+      <Footer /> */}
     </div>
   );
 };
